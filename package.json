@@ -1,0 +1,16 @@
+{
+  "name": "read-from-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-kinesis": "^3.388.0",
+    "rxjs": "^7.8.1"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
